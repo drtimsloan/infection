@@ -25,7 +25,8 @@ shinyUI(pageWithSidebar(
                 selected=1),
     
     # Display proportion of commensal bacteria based on 100 - slider input
-    textOutput("commensal")
+    textOutput("commensal"),
+    helpText(a("Click here for documentation",href="https://drtimsloan.shinyapps.io/infection/readme.Md"))
   ),
   
   # Display growth curve plot
