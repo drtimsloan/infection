@@ -1,6 +1,7 @@
 
 # Infection prediction function - documentation
 # Tim Sloan 18-01-16
+# https://github.com/drtimsloan/infection
 
 ## Purpose
 
